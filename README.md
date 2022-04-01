@@ -1,1 +1,1 @@
-using namespace std; lol
+Landing page for my Telegram channel lol
