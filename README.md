@@ -1,1 +1,3 @@
-Landing page for my Telegram channel lol
+Landing page for my Telegram channel
+
+SCSS test with Fazliddin
